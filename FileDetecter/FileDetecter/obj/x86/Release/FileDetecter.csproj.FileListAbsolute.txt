@@ -1,0 +1,11 @@
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\bin\Release\AMM 탐색기.exe.manifest
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\bin\Release\AMM 탐색기.application
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\bin\Release\AMM 탐색기.exe
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\bin\Release\AMM 탐색기.pdb
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\FileDetecter.Form1.resources
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\FileDetecter.Properties.Resources.resources
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\FileDetecter.csproj.GenerateResource.Cache
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\AMM 탐색기.exe.manifest
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\AMM 탐색기.application
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\AMM 탐색기.exe
+C:\Users\Boo\Documents\Visual Studio 2010\Projects\FileDetecter\FileDetecter\obj\x86\Release\AMM 탐색기.pdb
