@@ -1,6 +1,6 @@
 ###OpenSource
 
-##Developer Information
+#Developer Information
 
 #Jeju National University, Computer Engineering
 
