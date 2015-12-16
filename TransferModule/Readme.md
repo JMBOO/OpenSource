@@ -1,5 +1,4 @@
-#자바 전송 모듈
----
+#자바 전송 모듈(Java transfer module)
 
 자료출처
 [TCP](http://pulsebeat.tistory.com/24)
